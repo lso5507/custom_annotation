@@ -1,0 +1,3 @@
+Constructor Called
+3mycl.getClass() = class org.example.domain.MyClass
+method.getName() = setName

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Reflection" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-09T09:28:41" hostname="iseog-un-ui-MacBookPro.local" time="0.028">
+  <properties/>
+  <testcase name="리플렉션테스트_메소드()" classname="Reflection" time="0.028"/>
+  <system-out><![CDATA[Constructor Called
+mycl.getClass() = class org.example.domain.MyClass
+method.getName() = setName
+name = swlee
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

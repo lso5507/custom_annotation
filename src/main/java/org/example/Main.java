@@ -5,7 +5,7 @@ import org.example.util.FruitInfoUtil;
 
 public class Main {
     public static void main(String[] args) {
-        FruitInfoUtil.getFruitInfo(Apple.class);
-
+//        FruitInfoUtil.getFruitInfo(Apple.class);
+            FruitInfoUtil.setFruitInfo(Apple.class);
     }
 }
